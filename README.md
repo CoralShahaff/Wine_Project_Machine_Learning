@@ -1,4 +1,3 @@
-# Wine_Project_Machine_Learning
 # Educational and Fun Machine Learning Project
 
 ## Overview
