@@ -6,9 +6,9 @@ In this project, my college friends and I explored various machine learning tech
 
 ## Highlights
 
-- *Supervised Algorithms*: Tested multiple algorithms.
-- *Feature Engineering*: Created new features to boost performance.
-- *Cross-Validation*: Used different methods for robust evaluation.
+- **Supervised Algorithms**: Tested multiple algorithms.
+- **Feature Engineering**: Created new features to boost performance.
+- **Cross-Validation**: Used different methods for robust evaluation.
 
 ## Interactive Notebook
 
@@ -16,6 +16,6 @@ Check out our shareable Google Colab notebook, packed with code, explanations, a
 
 ## Personal Note
 
-As a student aiming for my first job, this project showcases my passion for machine learning. Enjoy! 🍷
+As a student aiming for my first job, this project showcases my passion for machine learning. Enjoy! :wine_glass:
 
-<img src="https://i.pinimg.com/originals/3d/20/29/3d2029b3159ea7d677acdc40f1f2a71d.jpg" alt="Wine" width="300"/>
+<img src="https://i.pinimg.com/originals/3d/20/29/3d2029b3159ea7d677acdc40f1f2a71d.jpg" alt="Wine" width="300"/>
